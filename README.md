@@ -1,2 +1,2 @@
 # Ad-Item-Movement
-Inventory tracking and reporting system
+Supporting code for the Ad Item Movement tracking and reporting tool.
