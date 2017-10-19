@@ -7,4 +7,4 @@ Report incompases Inventory, Orders & Sales down to the Item/Location Level. Ent
 ![alt text](https://github.com/SpencerBGuy/Ad-Item-Movement/blob/master/Images/AIM_enduser_report_example.PNG)
 
 # High level flowchart of the 'Data Pipeline'
-![alt text](https://github.com/SpencerBGuy/Ad-Item-Movement/blob/master/Images/AIM_Data_Flow.pdf)
+![alt text](https://github.com/SpencerBGuy/Ad-Item-Movement/blob/master/Images/AIM_Data_Flow-1.png)
